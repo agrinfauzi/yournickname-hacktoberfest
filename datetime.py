@@ -13,3 +13,5 @@ hour = str(now.hour)
 mi = str(now.minute)
 
 ss = str(now.second)
+
+print mm + "/" + dd + "/" + yyyy + " " + hour + ":" + mi + ":" + ss
